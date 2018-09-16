@@ -3,7 +3,7 @@ Bitcoin Converter
 
 **Project Description**
 
-This project includes a build of a convertor tool from Bitcoin to other currencies and vice versa.
+A convertor tool that converts Bitcoin to other currencies and vice versa.
 
 In order to get the most recent Bitcoin to USD value an API is used
 
